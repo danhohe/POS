@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mehrwertsteuerRechner", "mehrwertsteuerRechner.csproj", "{972BB6E1-CAAC-4F89-A501-88DA9A325D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972BB6E1-CAAC-4F89-A501-88DA9A325D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972BB6E1-CAAC-4F89-A501-88DA9A325D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972BB6E1-CAAC-4F89-A501-88DA9A325D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972BB6E1-CAAC-4F89-A501-88DA9A325D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA6DC5B-82F6-4C22-ABCB-9E4A50F0C8EC}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = @/*--------------------------------------------------------------------------\n *              HTBLA-Leonding / Class: 3ABIF\n *--------------------------------------------------------------------------\n *              Hoheneder Daniel\n *--------------------------------------------------------------------------\n *Description:\n*--------------------------------------------------------------------------\n*/
+	EndGlobalSection
+EndGlobal

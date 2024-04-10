@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/Sparschwein.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/Sparschwein.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/Sparschwein.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/Sparschwein.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/Sparschwein.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/Sparschwein/bin/Debug/net7.0/Sparschwein
+/Users/danielhoheneder/Schule/POS/Sparschwein/bin/Debug/net7.0/Sparschwein.deps.json
+/Users/danielhoheneder/Schule/POS/Sparschwein/bin/Debug/net7.0/Sparschwein.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/Sparschwein/bin/Debug/net7.0/Sparschwein.dll
+/Users/danielhoheneder/Schule/POS/Sparschwein/bin/Debug/net7.0/Sparschwein.pdb
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/Sparschwein.dll
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/refint/Sparschwein.dll
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/Sparschwein.pdb
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/Sparschwein.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/Sparschwein/obj/Debug/net7.0/ref/Sparschwein.dll

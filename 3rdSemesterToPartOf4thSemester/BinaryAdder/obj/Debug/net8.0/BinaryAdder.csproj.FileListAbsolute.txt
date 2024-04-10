@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/bin/Debug/net8.0/BinaryAdder
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/bin/Debug/net8.0/BinaryAdder.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/bin/Debug/net8.0/BinaryAdder.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/bin/Debug/net8.0/BinaryAdder.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/bin/Debug/net8.0/BinaryAdder.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/BinaryAdder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/BinaryAdder.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/BinaryAdder.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/BinaryAdder.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/BinaryAdder.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/refint/BinaryAdder.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/BinaryAdder.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/BinaryAdder.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BinaryAdder/obj/Debug/net8.0/ref/BinaryAdder.dll

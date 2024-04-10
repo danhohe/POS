@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/bin/Debug/net7.0/vokabtrainer
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/bin/Debug/net7.0/vokabtrainer.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/bin/Debug/net7.0/vokabtrainer.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/bin/Debug/net7.0/vokabtrainer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/bin/Debug/net7.0/vokabtrainer.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/vokabtrainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/vokabtrainer.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/vokabtrainer.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/vokabtrainer.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/vokabtrainer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/refint/vokabtrainer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/vokabtrainer.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/vokabtrainer.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/vokabtrainer/obj/Debug/net7.0/ref/vokabtrainer.dll

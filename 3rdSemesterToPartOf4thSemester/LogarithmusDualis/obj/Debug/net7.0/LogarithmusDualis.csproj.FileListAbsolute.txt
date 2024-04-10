@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/bin/Debug/net7.0/LogarithmusDualis
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/bin/Debug/net7.0/LogarithmusDualis.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/bin/Debug/net7.0/LogarithmusDualis.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/bin/Debug/net7.0/LogarithmusDualis.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/bin/Debug/net7.0/LogarithmusDualis.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/LogarithmusDualis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/LogarithmusDualis.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/LogarithmusDualis.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/LogarithmusDualis.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/LogarithmusDualis.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/refint/LogarithmusDualis.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/LogarithmusDualis.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/LogarithmusDualis.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LogarithmusDualis/obj/Debug/net7.0/ref/LogarithmusDualis.dll

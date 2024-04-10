@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/bin/Debug/net8.0/StringReverse
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/bin/Debug/net8.0/StringReverse.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/bin/Debug/net8.0/StringReverse.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/bin/Debug/net8.0/StringReverse.dll
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/bin/Debug/net8.0/StringReverse.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/StringReverse.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/StringReverse.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/StringReverse.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/StringReverse.dll
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/refint/StringReverse.dll
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/StringReverse.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/StringReverse.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/StringReverse/obj/Debug/net8.0/ref/StringReverse.dll

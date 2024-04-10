@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/bin/Debug/net8.0/LottoChecker
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/bin/Debug/net8.0/LottoTipps.csv
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/bin/Debug/net8.0/LottoChecker.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/bin/Debug/net8.0/LottoChecker.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/bin/Debug/net8.0/LottoChecker.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/bin/Debug/net8.0/LottoChecker.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/LottoChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/LottoChecker.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/LottoChecker.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/LottoChecker.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/LottoChecker.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/refint/LottoChecker.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/LottoChecker.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/LottoChecker.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LottoChecker/obj/Debug/net8.0/ref/LottoChecker.dll

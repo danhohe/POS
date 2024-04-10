@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/bin/Debug/net8.0/SplitString
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/bin/Debug/net8.0/SplitString.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/bin/Debug/net8.0/SplitString.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/bin/Debug/net8.0/SplitString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/bin/Debug/net8.0/SplitString.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/SplitString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/SplitString.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/SplitString.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/SplitString.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/SplitString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/refint/SplitString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/SplitString.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/SplitString.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SplitString/obj/Debug/net8.0/ref/SplitString.dll

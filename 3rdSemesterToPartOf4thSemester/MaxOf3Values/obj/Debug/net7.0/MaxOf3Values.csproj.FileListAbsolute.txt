@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/bin/Debug/net7.0/MaxOf3Values
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/bin/Debug/net7.0/MaxOf3Values.deps.json
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/bin/Debug/net7.0/MaxOf3Values.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/bin/Debug/net7.0/MaxOf3Values.dll
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/bin/Debug/net7.0/MaxOf3Values.pdb
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/MaxOf3Values.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/MaxOf3Values.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/MaxOf3Values.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/MaxOf3Values.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/MaxOf3Values.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/MaxOf3Values.dll
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/refint/MaxOf3Values.dll
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/MaxOf3Values.pdb
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/MaxOf3Values.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/MaxOf3Values/obj/Debug/net7.0/ref/MaxOf3Values.dll

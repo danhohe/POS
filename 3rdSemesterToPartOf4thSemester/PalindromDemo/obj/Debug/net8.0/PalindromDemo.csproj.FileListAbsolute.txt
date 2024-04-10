@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/bin/Debug/net8.0/PalindromDemo
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/bin/Debug/net8.0/PalindromDemo.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/bin/Debug/net8.0/PalindromDemo.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/bin/Debug/net8.0/PalindromDemo.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/bin/Debug/net8.0/PalindromDemo.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/PalindromDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/PalindromDemo.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/PalindromDemo.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/PalindromDemo.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/PalindromDemo.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/refint/PalindromDemo.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/PalindromDemo.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/PalindromDemo.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PalindromDemo/obj/Debug/net8.0/ref/PalindromDemo.dll

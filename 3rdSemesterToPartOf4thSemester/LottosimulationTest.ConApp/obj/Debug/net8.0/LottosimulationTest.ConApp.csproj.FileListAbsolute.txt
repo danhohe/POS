@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/bin/Debug/net8.0/LottosimulationTest.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/bin/Debug/net8.0/LottosimulationTest.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/bin/Debug/net8.0/LottosimulationTest.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/bin/Debug/net8.0/LottosimulationTest.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/bin/Debug/net8.0/LottosimulationTest.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/LottosimulationTest.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/LottosimulationTest.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/LottosimulationTest.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/LottosimulationTest.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/LottosimulationTest.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/refint/LottosimulationTest.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/LottosimulationTest.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/LottosimulationTest.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LottosimulationTest.ConApp/obj/Debug/net8.0/ref/LottosimulationTest.ConApp.dll

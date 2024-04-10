@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DemoString.ConApp/1.0.0": {
+        "runtime": {
+          "DemoString.ConApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoString.ConApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

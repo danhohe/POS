@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/Taschenrechner.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/Taschenrechner.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/Taschenrechner.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/Taschenrechner.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/bin/Debug/net7.0/Taschenrechner
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/bin/Debug/net7.0/Taschenrechner.deps.json
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/bin/Debug/net7.0/Taschenrechner.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/bin/Debug/net7.0/Taschenrechner.dll
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/bin/Debug/net7.0/Taschenrechner.pdb
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/Taschenrechner.dll
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/refint/Taschenrechner.dll
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/Taschenrechner.pdb
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/Taschenrechner.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/UE06/Taschenrechner/obj/Debug/net7.0/ref/Taschenrechner.dll

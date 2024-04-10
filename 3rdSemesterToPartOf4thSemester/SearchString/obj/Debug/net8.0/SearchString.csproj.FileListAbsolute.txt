@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/bin/Debug/net8.0/SearchString
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/bin/Debug/net8.0/SearchString.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/bin/Debug/net8.0/SearchString.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/bin/Debug/net8.0/SearchString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/bin/Debug/net8.0/SearchString.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/SearchString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/SearchString.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/SearchString.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/SearchString.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/SearchString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/refint/SearchString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/SearchString.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/SearchString.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SearchString/obj/Debug/net8.0/ref/SearchString.dll

@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/bin/Debug/net7.0/DemoString.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/bin/Debug/net7.0/DemoString.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/bin/Debug/net7.0/DemoString.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/bin/Debug/net7.0/DemoString.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/bin/Debug/net7.0/DemoString.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/DemoString.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/DemoString.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/DemoString.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/DemoString.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/DemoString.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/refint/DemoString.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/DemoString.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/DemoString.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoString.ConApp/obj/Debug/net7.0/ref/DemoString.ConApp.dll

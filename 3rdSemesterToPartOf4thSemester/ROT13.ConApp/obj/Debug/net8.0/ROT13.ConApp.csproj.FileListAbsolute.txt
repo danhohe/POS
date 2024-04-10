@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/bin/Debug/net8.0/ROT13.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/bin/Debug/net8.0/ROT13.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/bin/Debug/net8.0/ROT13.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/bin/Debug/net8.0/ROT13.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/bin/Debug/net8.0/ROT13.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/ROT13.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/ROT13.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/ROT13.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/ROT13.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/ROT13.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/refint/ROT13.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/ROT13.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/ROT13.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ROT13.ConApp/obj/Debug/net8.0/ref/ROT13.ConApp.dll

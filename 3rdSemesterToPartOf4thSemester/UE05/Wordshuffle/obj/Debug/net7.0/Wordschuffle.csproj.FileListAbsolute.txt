@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/Wordschuffle.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/Wordschuffle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/Wordschuffle.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/Wordschuffle.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/Wordschuffle.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/bin/Debug/net7.0/Wordschuffle
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/bin/Debug/net7.0/Wordschuffle.deps.json
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/bin/Debug/net7.0/Wordschuffle.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/bin/Debug/net7.0/Wordschuffle.dll
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/bin/Debug/net7.0/Wordschuffle.pdb
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/Wordschuffle.dll
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/refint/Wordschuffle.dll
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/Wordschuffle.pdb
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/Wordschuffle.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/UE05/Wordschuffle/obj/Debug/net7.0/ref/Wordschuffle.dll

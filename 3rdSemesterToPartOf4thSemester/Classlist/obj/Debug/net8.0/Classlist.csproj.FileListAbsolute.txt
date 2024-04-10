@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/bin/Debug/net8.0/Classlist
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/bin/Debug/net8.0/Classlist.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/bin/Debug/net8.0/Classlist.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/bin/Debug/net8.0/Classlist.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/bin/Debug/net8.0/Classlist.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/Classlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/Classlist.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/Classlist.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/Classlist.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/Classlist.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/refint/Classlist.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/Classlist.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/Classlist.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Classlist/obj/Debug/net8.0/ref/Classlist.dll

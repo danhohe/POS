@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/temperatureSelection.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/temperatureSelection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/temperatureSelection.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/temperatureSelection.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/temperatureSelection.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/temperatureSelection/bin/Debug/net7.0/temperatureSelection
+/Users/danielhoheneder/Schule/POS/temperatureSelection/bin/Debug/net7.0/temperatureSelection.deps.json
+/Users/danielhoheneder/Schule/POS/temperatureSelection/bin/Debug/net7.0/temperatureSelection.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/temperatureSelection/bin/Debug/net7.0/temperatureSelection.dll
+/Users/danielhoheneder/Schule/POS/temperatureSelection/bin/Debug/net7.0/temperatureSelection.pdb
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/temperatureSelection.dll
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/refint/temperatureSelection.dll
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/temperatureSelection.pdb
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/temperatureSelection.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/temperatureSelection/obj/Debug/net7.0/ref/temperatureSelection.dll

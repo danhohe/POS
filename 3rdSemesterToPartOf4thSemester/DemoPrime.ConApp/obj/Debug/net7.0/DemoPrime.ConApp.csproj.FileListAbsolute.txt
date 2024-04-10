@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/DemoPrime.ConApp.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/DemoPrime.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/DemoPrime.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/DemoPrime.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/DemoPrime.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/bin/Debug/net7.0/DemoPrime.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/bin/Debug/net7.0/DemoPrime.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/bin/Debug/net7.0/DemoPrime.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/bin/Debug/net7.0/DemoPrime.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/bin/Debug/net7.0/DemoPrime.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/DemoPrime.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/refint/DemoPrime.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/DemoPrime.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/DemoPrime.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoPrime.ConApp/obj/Debug/net7.0/ref/DemoPrime.ConApp.dll

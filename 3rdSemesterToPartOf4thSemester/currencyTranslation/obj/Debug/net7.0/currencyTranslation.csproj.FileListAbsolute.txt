@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/currencyTranslation.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/currencyTranslation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/currencyTranslation.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/currencyTranslation.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/currencyTranslation.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/currencyTranslation/bin/Debug/net7.0/currencyTranslation
+/Users/danielhoheneder/Schule/POS/currencyTranslation/bin/Debug/net7.0/currencyTranslation.deps.json
+/Users/danielhoheneder/Schule/POS/currencyTranslation/bin/Debug/net7.0/currencyTranslation.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/currencyTranslation/bin/Debug/net7.0/currencyTranslation.dll
+/Users/danielhoheneder/Schule/POS/currencyTranslation/bin/Debug/net7.0/currencyTranslation.pdb
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/currencyTranslation.dll
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/refint/currencyTranslation.dll
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/currencyTranslation.pdb
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/currencyTranslation.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/currencyTranslation/obj/Debug/net7.0/ref/currencyTranslation.dll

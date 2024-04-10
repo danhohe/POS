@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/bin/Debug/net7.0/Zahlenstatistik
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/bin/Debug/net7.0/Zahlenstatistik.deps.json
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/bin/Debug/net7.0/Zahlenstatistik.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/bin/Debug/net7.0/Zahlenstatistik.dll
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/bin/Debug/net7.0/Zahlenstatistik.pdb
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/Zahlenstatistik.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/Zahlenstatistik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/Zahlenstatistik.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/Zahlenstatistik.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/Zahlenstatistik.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/Zahlenstatistik.dll
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/refint/Zahlenstatistik.dll
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/Zahlenstatistik.pdb
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/Zahlenstatistik.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/Zahlenstatistik/obj/Debug/net7.0/ref/Zahlenstatistik.dll

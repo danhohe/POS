@@ -1,0 +1,17 @@
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/bin/Debug/net8.0/PassKeysFinder
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/bin/Debug/net8.0/PassKeysFinder.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/bin/Debug/net8.0/PassKeysFinder.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/bin/Debug/net8.0/PassKeysFinder.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/bin/Debug/net8.0/PassKeysFinder.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.csproj.CopyComplete
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/refint/PassKeysFinder.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/PassKeysFinder.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net8.0/ref/PassKeysFinder.dll

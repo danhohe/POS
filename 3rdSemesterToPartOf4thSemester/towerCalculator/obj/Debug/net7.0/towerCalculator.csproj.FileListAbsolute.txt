@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/bin/Debug/net7.0/towerCalculator
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/bin/Debug/net7.0/towerCalculator.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/bin/Debug/net7.0/towerCalculator.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/bin/Debug/net7.0/towerCalculator.dll
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/bin/Debug/net7.0/towerCalculator.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/towerCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/towerCalculator.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/towerCalculator.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/towerCalculator.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/towerCalculator.dll
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/refint/towerCalculator.dll
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/towerCalculator.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/towerCalculator.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/towerCalculator/obj/Debug/net7.0/ref/towerCalculator.dll

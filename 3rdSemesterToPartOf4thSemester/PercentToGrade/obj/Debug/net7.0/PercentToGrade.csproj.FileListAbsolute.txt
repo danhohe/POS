@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/PercentToGrade/bin/Debug/net7.0/PercentToGrade
+/Users/danielhoheneder/Schule/POS/PercentToGrade/bin/Debug/net7.0/PercentToGrade.deps.json
+/Users/danielhoheneder/Schule/POS/PercentToGrade/bin/Debug/net7.0/PercentToGrade.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/PercentToGrade/bin/Debug/net7.0/PercentToGrade.dll
+/Users/danielhoheneder/Schule/POS/PercentToGrade/bin/Debug/net7.0/PercentToGrade.pdb
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/PercentToGrade.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/PercentToGrade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/PercentToGrade.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/PercentToGrade.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/PercentToGrade.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/PercentToGrade.dll
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/refint/PercentToGrade.dll
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/PercentToGrade.pdb
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/PercentToGrade.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/PercentToGrade/obj/Debug/net7.0/ref/PercentToGrade.dll

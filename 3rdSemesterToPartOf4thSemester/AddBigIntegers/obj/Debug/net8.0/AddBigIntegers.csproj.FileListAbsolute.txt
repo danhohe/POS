@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/bin/Debug/net8.0/AddBigIntegers
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/bin/Debug/net8.0/AddBigIntegers.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/bin/Debug/net8.0/AddBigIntegers.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/bin/Debug/net8.0/AddBigIntegers.dll
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/bin/Debug/net8.0/AddBigIntegers.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/AddBigIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/AddBigIntegers.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/AddBigIntegers.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/AddBigIntegers.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/AddBigIntegers.dll
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/refint/AddBigIntegers.dll
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/AddBigIntegers.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/AddBigIntegers.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/AddBigIntegers/obj/Debug/net8.0/ref/AddBigIntegers.dll

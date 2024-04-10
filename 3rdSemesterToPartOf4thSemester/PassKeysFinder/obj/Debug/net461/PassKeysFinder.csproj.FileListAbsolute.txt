@@ -1,0 +1,7 @@
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net461/PassKeysFinder.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net461/PassKeysFinder.csproj.SuggestedBindingRedirects.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net461/PassKeysFinder.exe.config
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net461/PassKeysFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net461/PassKeysFinder.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net461/PassKeysFinder.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/PassKeysFinder/obj/Debug/net461/PassKeysFinder.csproj.CoreCompileInputs.cache

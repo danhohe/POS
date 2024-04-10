@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/bin/Debug/net8.0/DemoArray2Dimension.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/bin/Debug/net8.0/DemoArray2Dimension.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/bin/Debug/net8.0/DemoArray2Dimension.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/bin/Debug/net8.0/DemoArray2Dimension.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/bin/Debug/net8.0/DemoArray2Dimension.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/DemoArray2Dimension.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/DemoArray2Dimension.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/DemoArray2Dimension.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/DemoArray2Dimension.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/DemoArray2Dimension.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/refint/DemoArray2Dimension.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/DemoArray2Dimension.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/DemoArray2Dimension.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoArray2Dimension.ConApp/obj/Debug/net8.0/ref/DemoArray2Dimension.ConApp.dll

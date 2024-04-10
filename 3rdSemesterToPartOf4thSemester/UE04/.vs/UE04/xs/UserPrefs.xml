@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1D1DB6E4-8D5C-44CB-9F0E-8FC52E6BEDEE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Visitenkarte/Program.cs">
+    <Files>
+      <File FileName="Visitenkarte/Program.cs" Line="33" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UE04" expanded="True">
+            <Node name="Visitenkarte" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Visitenkarte PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

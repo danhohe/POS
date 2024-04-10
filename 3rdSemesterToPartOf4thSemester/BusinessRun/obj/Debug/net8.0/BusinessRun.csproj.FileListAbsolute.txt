@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/bin/Debug/net8.0/BusinessRun
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/bin/Debug/net8.0/BusinessRun.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/bin/Debug/net8.0/BusinessRun.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/bin/Debug/net8.0/BusinessRun.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/bin/Debug/net8.0/BusinessRun.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/BusinessRun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/BusinessRun.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/BusinessRun.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/BusinessRun.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/BusinessRun.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/refint/BusinessRun.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/BusinessRun.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/BusinessRun.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BusinessRun/obj/Debug/net8.0/ref/BusinessRun.dll

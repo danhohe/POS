@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/bin/Debug/net7.0/mehrwertsteuerRechner
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/bin/Debug/net7.0/mehrwertsteuerRechner.deps.json
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/bin/Debug/net7.0/mehrwertsteuerRechner.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/bin/Debug/net7.0/mehrwertsteuerRechner.dll
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/bin/Debug/net7.0/mehrwertsteuerRechner.pdb
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/mehrwertsteuerRechner.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/mehrwertsteuerRechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/mehrwertsteuerRechner.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/mehrwertsteuerRechner.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/mehrwertsteuerRechner.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/mehrwertsteuerRechner.dll
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/refint/mehrwertsteuerRechner.dll
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/mehrwertsteuerRechner.pdb
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/mehrwertsteuerRechner.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/UE07/mehrwertsteuerRechner/obj/Debug/net7.0/ref/mehrwertsteuerRechner.dll

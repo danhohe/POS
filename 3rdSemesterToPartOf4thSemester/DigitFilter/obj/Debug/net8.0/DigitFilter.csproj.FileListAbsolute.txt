@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/bin/Debug/net8.0/DigitFilter
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/bin/Debug/net8.0/DigitFilter.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/bin/Debug/net8.0/DigitFilter.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/bin/Debug/net8.0/DigitFilter.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/bin/Debug/net8.0/DigitFilter.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/DigitFilter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/DigitFilter.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/DigitFilter.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/DigitFilter.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/DigitFilter.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/refint/DigitFilter.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/DigitFilter.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/DigitFilter.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DigitFilter/obj/Debug/net8.0/ref/DigitFilter.dll

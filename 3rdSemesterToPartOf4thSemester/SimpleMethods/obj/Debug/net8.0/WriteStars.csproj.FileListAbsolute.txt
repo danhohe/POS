@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/bin/Debug/net8.0/WriteStars
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/bin/Debug/net8.0/WriteStars.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/bin/Debug/net8.0/WriteStars.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/bin/Debug/net8.0/WriteStars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/bin/Debug/net8.0/WriteStars.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/WriteStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/WriteStars.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/WriteStars.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/WriteStars.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/WriteStars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/refint/WriteStars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/WriteStars.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/WriteStars.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/WriteStars/obj/Debug/net8.0/ref/WriteStars.dll

@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/bin/Debug/net8.0/DeleteChars
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/bin/Debug/net8.0/DeleteChars.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/bin/Debug/net8.0/DeleteChars.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/bin/Debug/net8.0/DeleteChars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/bin/Debug/net8.0/DeleteChars.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/DeleteChars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/DeleteChars.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/DeleteChars.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/DeleteChars.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/DeleteChars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/refint/DeleteChars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/DeleteChars.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/DeleteChars.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DeleteChars/obj/Debug/net8.0/ref/DeleteChars.dll

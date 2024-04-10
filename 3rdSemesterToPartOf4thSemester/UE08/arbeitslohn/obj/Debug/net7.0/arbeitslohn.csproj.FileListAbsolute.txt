@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/bin/Debug/net7.0/arbeitslohn
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/bin/Debug/net7.0/arbeitslohn.deps.json
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/bin/Debug/net7.0/arbeitslohn.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/bin/Debug/net7.0/arbeitslohn.dll
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/bin/Debug/net7.0/arbeitslohn.pdb
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/arbeitslohn.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/arbeitslohn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/arbeitslohn.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/arbeitslohn.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/arbeitslohn.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/arbeitslohn.dll
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/refint/arbeitslohn.dll
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/arbeitslohn.pdb
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/arbeitslohn.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/UE08/arbeitslohn/obj/Debug/net7.0/ref/arbeitslohn.dll

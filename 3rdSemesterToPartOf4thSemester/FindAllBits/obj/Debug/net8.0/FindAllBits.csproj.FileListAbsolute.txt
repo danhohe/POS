@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/bin/Debug/net8.0/FindAllBits
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/bin/Debug/net8.0/FindAllBits.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/bin/Debug/net8.0/FindAllBits.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/bin/Debug/net8.0/FindAllBits.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/bin/Debug/net8.0/FindAllBits.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/FindAllBits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/FindAllBits.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/FindAllBits.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/FindAllBits.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/FindAllBits.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/refint/FindAllBits.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/FindAllBits.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/FindAllBits.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FindAllBits/obj/Debug/net8.0/ref/FindAllBits.dll

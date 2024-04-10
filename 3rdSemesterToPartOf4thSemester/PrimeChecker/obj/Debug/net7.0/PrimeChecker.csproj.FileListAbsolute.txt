@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/bin/Debug/net7.0/PrimeChecker
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/bin/Debug/net7.0/PrimeChecker.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/bin/Debug/net7.0/PrimeChecker.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/bin/Debug/net7.0/PrimeChecker.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/bin/Debug/net7.0/PrimeChecker.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/PrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/PrimeChecker.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/PrimeChecker.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/PrimeChecker.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/PrimeChecker.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/refint/PrimeChecker.dll
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/PrimeChecker.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/PrimeChecker.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/PrimeChecker/obj/Debug/net7.0/ref/PrimeChecker.dll

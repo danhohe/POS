@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/bin/Debug/net7.0/starSquare
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/bin/Debug/net7.0/starSquare.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/bin/Debug/net7.0/starSquare.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/bin/Debug/net7.0/starSquare.dll
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/bin/Debug/net7.0/starSquare.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/starSquare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/starSquare.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/starSquare.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/starSquare.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/starSquare.dll
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/refint/starSquare.dll
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/starSquare.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/starSquare.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/starSquare/obj/Debug/net7.0/ref/starSquare.dll

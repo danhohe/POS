@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/bin/Debug/net8.0/CommentQuote
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/bin/Debug/net8.0/CommentQuote.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/bin/Debug/net8.0/CommentQuote.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/bin/Debug/net8.0/CommentQuote.dll
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/bin/Debug/net8.0/CommentQuote.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/CommentQuote.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/CommentQuote.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/CommentQuote.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/CommentQuote.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/CommentQuote.dll
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/refint/CommentQuote.dll
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/CommentQuote.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/CommentQuote.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/CommentQuote/obj/Debug/net8.0/ref/CommentQuote.dll

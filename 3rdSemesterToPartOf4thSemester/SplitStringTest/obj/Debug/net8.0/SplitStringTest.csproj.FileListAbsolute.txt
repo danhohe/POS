@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/bin/Debug/net8.0/SplitStringTest
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/bin/Debug/net8.0/SplitStringTest.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/bin/Debug/net8.0/SplitStringTest.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/bin/Debug/net8.0/SplitStringTest.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/bin/Debug/net8.0/SplitStringTest.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/SplitStringTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/SplitStringTest.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/SplitStringTest.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/SplitStringTest.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/SplitStringTest.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/refint/SplitStringTest.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/SplitStringTest.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/SplitStringTest.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SplitStringTest/obj/Debug/net8.0/ref/SplitStringTest.dll

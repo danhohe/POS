@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/bin/Debug/net8.0/SortAlgorithm.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/bin/Debug/net8.0/SortAlgorithm.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/bin/Debug/net8.0/SortAlgorithm.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/bin/Debug/net8.0/SortAlgorithm.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/bin/Debug/net8.0/SortAlgorithm.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/SortAlgorithm.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/SortAlgorithm.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/SortAlgorithm.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/SortAlgorithm.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/SortAlgorithm.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/refint/SortAlgorithm.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/SortAlgorithm.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/SortAlgorithm.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SortAlgorithm.ConApp/obj/Debug/net8.0/ref/SortAlgorithm.ConApp.dll

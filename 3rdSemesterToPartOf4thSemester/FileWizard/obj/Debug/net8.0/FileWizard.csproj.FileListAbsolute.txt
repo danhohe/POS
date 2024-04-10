@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/bin/Debug/net8.0/FileWizard
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/bin/Debug/net8.0/FileWizard.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/bin/Debug/net8.0/FileWizard.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/bin/Debug/net8.0/FileWizard.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/bin/Debug/net8.0/FileWizard.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/FileWizard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/FileWizard.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/FileWizard.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/FileWizard.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/FileWizard.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/refint/FileWizard.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/FileWizard.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/FileWizard.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FileWizard/obj/Debug/net8.0/ref/FileWizard.dll

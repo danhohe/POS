@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/shoppingCart.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/shoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/shoppingCart.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/shoppingCart.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/shoppingCart.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/shoppingCart/bin/Debug/net7.0/shoppingCart
+/Users/danielhoheneder/Schule/POS/shoppingCart/bin/Debug/net7.0/shoppingCart.deps.json
+/Users/danielhoheneder/Schule/POS/shoppingCart/bin/Debug/net7.0/shoppingCart.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/shoppingCart/bin/Debug/net7.0/shoppingCart.dll
+/Users/danielhoheneder/Schule/POS/shoppingCart/bin/Debug/net7.0/shoppingCart.pdb
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/shoppingCart.dll
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/refint/shoppingCart.dll
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/shoppingCart.pdb
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/shoppingCart.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/shoppingCart/obj/Debug/net7.0/ref/shoppingCart.dll

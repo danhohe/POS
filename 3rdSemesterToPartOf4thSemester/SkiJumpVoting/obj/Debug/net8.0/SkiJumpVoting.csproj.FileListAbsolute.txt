@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/bin/Debug/net8.0/SkiJumpVoting
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/bin/Debug/net8.0/SkiJumpVoting.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/bin/Debug/net8.0/SkiJumpVoting.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/bin/Debug/net8.0/SkiJumpVoting.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/bin/Debug/net8.0/SkiJumpVoting.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/SkiJumpVoting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/SkiJumpVoting.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/SkiJumpVoting.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/SkiJumpVoting.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/SkiJumpVoting.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/refint/SkiJumpVoting.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/SkiJumpVoting.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/SkiJumpVoting.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SkiJumpVoting/obj/Debug/net8.0/ref/SkiJumpVoting.dll

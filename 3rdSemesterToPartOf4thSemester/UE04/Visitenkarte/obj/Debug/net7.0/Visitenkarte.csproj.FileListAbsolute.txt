@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/bin/Debug/net7.0/Visitenkarte
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/bin/Debug/net7.0/Visitenkarte.deps.json
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/bin/Debug/net7.0/Visitenkarte.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/bin/Debug/net7.0/Visitenkarte.dll
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/bin/Debug/net7.0/Visitenkarte.pdb
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/Visitenkarte.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/Visitenkarte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/Visitenkarte.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/Visitenkarte.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/Visitenkarte.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/Visitenkarte.dll
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/refint/Visitenkarte.dll
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/Visitenkarte.pdb
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/Visitenkarte.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/UE04/Visitenkarte/obj/Debug/net7.0/ref/Visitenkarte.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DemoUserType.ConApp/1.0.0": {
+        "runtime": {
+          "DemoUserType.ConApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoUserType.ConApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

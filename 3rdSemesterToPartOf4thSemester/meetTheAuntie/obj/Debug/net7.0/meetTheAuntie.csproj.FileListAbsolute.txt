@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/bin/Debug/net7.0/meetTheAuntie
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/bin/Debug/net7.0/meetTheAuntie.deps.json
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/bin/Debug/net7.0/meetTheAuntie.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/bin/Debug/net7.0/meetTheAuntie.dll
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/bin/Debug/net7.0/meetTheAuntie.pdb
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/meetTheAuntie.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/meetTheAuntie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/meetTheAuntie.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/meetTheAuntie.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/meetTheAuntie.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/meetTheAuntie.dll
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/refint/meetTheAuntie.dll
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/meetTheAuntie.pdb
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/meetTheAuntie.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/meetTheAuntie/obj/Debug/net7.0/ref/meetTheAuntie.dll

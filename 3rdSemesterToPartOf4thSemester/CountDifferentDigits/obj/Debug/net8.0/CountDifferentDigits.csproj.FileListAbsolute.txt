@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/bin/Debug/net8.0/CountDifferentDigits
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/bin/Debug/net8.0/CountDifferentDigits.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/bin/Debug/net8.0/CountDifferentDigits.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/bin/Debug/net8.0/CountDifferentDigits.dll
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/bin/Debug/net8.0/CountDifferentDigits.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/CountDifferentDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/CountDifferentDigits.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/CountDifferentDigits.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/CountDifferentDigits.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/CountDifferentDigits.dll
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/refint/CountDifferentDigits.dll
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/CountDifferentDigits.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/CountDifferentDigits.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/CountDifferentDigits/obj/Debug/net8.0/ref/CountDifferentDigits.dll

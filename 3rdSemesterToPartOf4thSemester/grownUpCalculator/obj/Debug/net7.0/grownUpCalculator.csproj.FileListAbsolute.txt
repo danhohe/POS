@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/bin/Debug/net7.0/grownUpCalculator
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/bin/Debug/net7.0/grownUpCalculator.deps.json
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/bin/Debug/net7.0/grownUpCalculator.runtimeconfig.json
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/bin/Debug/net7.0/grownUpCalculator.dll
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/bin/Debug/net7.0/grownUpCalculator.pdb
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/grownUpCalculator.csproj.AssemblyReference.cache
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/grownUpCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/grownUpCalculator.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/grownUpCalculator.AssemblyInfo.cs
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/grownUpCalculator.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/grownUpCalculator.dll
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/refint/grownUpCalculator.dll
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/grownUpCalculator.pdb
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/grownUpCalculator.genruntimeconfig.cache
+/Users/danielhoheneder/Schule/POS/grownUpCalculator/obj/Debug/net7.0/ref/grownUpCalculator.dll

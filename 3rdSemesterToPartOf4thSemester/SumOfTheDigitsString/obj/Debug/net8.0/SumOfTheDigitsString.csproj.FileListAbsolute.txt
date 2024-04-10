@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/bin/Debug/net8.0/SumOfTheDigitsString
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/bin/Debug/net8.0/SumOfTheDigitsString.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/bin/Debug/net8.0/SumOfTheDigitsString.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/bin/Debug/net8.0/SumOfTheDigitsString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/bin/Debug/net8.0/SumOfTheDigitsString.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/SumOfTheDigitsString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/SumOfTheDigitsString.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/SumOfTheDigitsString.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/SumOfTheDigitsString.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/SumOfTheDigitsString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/refint/SumOfTheDigitsString.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/SumOfTheDigitsString.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/SumOfTheDigitsString.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SumOfTheDigitsString/obj/Debug/net8.0/ref/SumOfTheDigitsString.dll

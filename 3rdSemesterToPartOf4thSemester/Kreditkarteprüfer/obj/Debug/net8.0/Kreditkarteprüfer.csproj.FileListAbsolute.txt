@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/bin/Debug/net8.0/Kreditkarteprüfer
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/bin/Debug/net8.0/Kreditkarteprüfer.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/bin/Debug/net8.0/Kreditkarteprüfer.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/bin/Debug/net8.0/Kreditkarteprüfer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/bin/Debug/net8.0/Kreditkarteprüfer.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/Kreditkarteprüfer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/Kreditkarteprüfer.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/Kreditkarteprüfer.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/Kreditkarteprüfer.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/Kreditkarteprüfer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/refint/Kreditkarteprüfer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/Kreditkarteprüfer.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/Kreditkarteprüfer.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Kreditkarteprüfer/obj/Debug/net8.0/ref/Kreditkarteprüfer.dll

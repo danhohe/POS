@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/bin/Debug/net8.0/SimpleMethods
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/bin/Debug/net8.0/SimpleMethods.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/bin/Debug/net8.0/SimpleMethods.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/bin/Debug/net8.0/SimpleMethods.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/bin/Debug/net8.0/SimpleMethods.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/SimpleMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/SimpleMethods.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/SimpleMethods.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/SimpleMethods.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/SimpleMethods.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/refint/SimpleMethods.dll
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/SimpleMethods.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/SimpleMethods.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/SimpleMethods/obj/Debug/net8.0/ref/SimpleMethods.dll

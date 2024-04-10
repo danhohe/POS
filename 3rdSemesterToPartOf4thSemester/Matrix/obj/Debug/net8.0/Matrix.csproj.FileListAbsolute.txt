@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/bin/Debug/net8.0/Matrix
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/bin/Debug/net8.0/Matrix.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/bin/Debug/net8.0/Matrix.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/bin/Debug/net8.0/Matrix.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/bin/Debug/net8.0/Matrix.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/Matrix.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/Matrix.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/Matrix.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/Matrix.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/refint/Matrix.dll
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/Matrix.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/Matrix.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/Matrix/obj/Debug/net8.0/ref/Matrix.dll

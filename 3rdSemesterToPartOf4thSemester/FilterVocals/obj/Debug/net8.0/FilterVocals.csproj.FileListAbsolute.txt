@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/bin/Debug/net8.0/FilterVocals
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/bin/Debug/net8.0/FilterVocals.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/bin/Debug/net8.0/FilterVocals.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/bin/Debug/net8.0/FilterVocals.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/bin/Debug/net8.0/FilterVocals.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/FilterVocals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/FilterVocals.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/FilterVocals.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/FilterVocals.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/FilterVocals.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/refint/FilterVocals.dll
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/FilterVocals.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/FilterVocals.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/FilterVocals/obj/Debug/net8.0/ref/FilterVocals.dll

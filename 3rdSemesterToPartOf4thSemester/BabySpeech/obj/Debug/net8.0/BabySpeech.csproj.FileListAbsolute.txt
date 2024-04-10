@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/bin/Debug/net8.0/BabySpeech
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/bin/Debug/net8.0/BabySpeech.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/bin/Debug/net8.0/BabySpeech.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/bin/Debug/net8.0/BabySpeech.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/bin/Debug/net8.0/BabySpeech.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/BabySpeech.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/BabySpeech.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/BabySpeech.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/BabySpeech.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/BabySpeech.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/refint/BabySpeech.dll
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/BabySpeech.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/BabySpeech.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/BabySpeech/obj/Debug/net8.0/ref/BabySpeech.dll

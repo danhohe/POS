@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/bin/Debug/net7.0/guessTheNumber
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/bin/Debug/net7.0/guessTheNumber.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/bin/Debug/net7.0/guessTheNumber.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/bin/Debug/net7.0/guessTheNumber.dll
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/bin/Debug/net7.0/guessTheNumber.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/guessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/guessTheNumber.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/guessTheNumber.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/guessTheNumber.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/guessTheNumber.dll
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/refint/guessTheNumber.dll
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/guessTheNumber.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/guessTheNumber.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/guessTheNumber/obj/Debug/net7.0/ref/guessTheNumber.dll

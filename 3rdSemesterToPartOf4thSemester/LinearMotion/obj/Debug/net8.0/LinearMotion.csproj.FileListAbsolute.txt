@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/bin/Debug/net8.0/LinearMotion
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/bin/Debug/net8.0/LinearMotion.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/bin/Debug/net8.0/LinearMotion.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/bin/Debug/net8.0/LinearMotion.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/bin/Debug/net8.0/LinearMotion.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/LinearMotion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/LinearMotion.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/LinearMotion.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/LinearMotion.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/LinearMotion.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/refint/LinearMotion.dll
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/LinearMotion.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/LinearMotion.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/LinearMotion/obj/Debug/net8.0/ref/LinearMotion.dll

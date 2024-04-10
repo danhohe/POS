@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/bin/Debug/net8.0/ASCII_Table
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/bin/Debug/net8.0/ASCII_Table.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/bin/Debug/net8.0/ASCII_Table.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/bin/Debug/net8.0/ASCII_Table.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/bin/Debug/net8.0/ASCII_Table.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/ASCII_Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/ASCII_Table.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/ASCII_Table.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/ASCII_Table.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/ASCII_Table.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/refint/ASCII_Table.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/ASCII_Table.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/ASCII_Table.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ASCII_Table/obj/Debug/net8.0/ref/ASCII_Table.dll

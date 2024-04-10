@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/bin/Debug/net8.0/DemoStack.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/bin/Debug/net8.0/DemoStack.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/bin/Debug/net8.0/DemoStack.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/bin/Debug/net8.0/DemoStack.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/bin/Debug/net8.0/DemoStack.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/DemoStack.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/DemoStack.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/DemoStack.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/DemoStack.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/DemoStack.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/refint/DemoStack.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/DemoStack.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/DemoStack.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/DemoStack.ConApp/obj/Debug/net8.0/ref/DemoStack.ConApp.dll

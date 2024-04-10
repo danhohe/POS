@@ -1,0 +1,14 @@
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/bin/Debug/net8.0/ReverseChars
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/bin/Debug/net8.0/ReverseChars.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/bin/Debug/net8.0/ReverseChars.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/bin/Debug/net8.0/ReverseChars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/bin/Debug/net8.0/ReverseChars.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/ReverseChars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/ReverseChars.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/ReverseChars.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/ReverseChars.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/ReverseChars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/refint/ReverseChars.dll
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/ReverseChars.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/ReverseChars.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/ReverseChars/obj/Debug/net8.0/ref/ReverseChars.dll

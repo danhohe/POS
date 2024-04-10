@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/bin/Debug/net8.0/GameOfLife
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/bin/Debug/net8.0/GameOfLife.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/bin/Debug/net8.0/GameOfLife.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/bin/Debug/net8.0/GameOfLife.dll
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/bin/Debug/net8.0/GameOfLife.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/GameOfLife.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/GameOfLife.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/GameOfLife.dll
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/refint/GameOfLife.dll
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/GameOfLife.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/GameOfLife.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/obj/Debug/net8.0/ref/GameOfLife.dll
+/Users/danielhoheneder/Desktop/Schule/POS/GameOfLife/bin/Debug/net8.0/Blinker.csv
