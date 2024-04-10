@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/bin/Debug/net8.0/VocabTrainer
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/bin/Debug/net8.0/VocabTrainer.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/bin/Debug/net8.0/VocabTrainer.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/bin/Debug/net8.0/VocabTrainer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/bin/Debug/net8.0/VocabTrainer.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/VocabTrainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/VocabTrainer.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/VocabTrainer.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/VocabTrainer.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/VocabTrainer.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/VocabTrainer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/refint/VocabTrainer.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/VocabTrainer.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/VocabTrainer.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/VocabTrainer/obj/Debug/net8.0/ref/VocabTrainer.dll
