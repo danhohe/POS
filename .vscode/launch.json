@@ -5,17 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Launch in External Terminal",
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
             "request": "launch",
-            "program": "${workspaceFolder}/your_program",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
-            "externalConsole": true,
             "preLaunchTask": "build",
-            "osx": {
-                "externalConsole": true
-            }
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/{workspaceFolder}.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "externalTerminal"
         }
     ]
 }
