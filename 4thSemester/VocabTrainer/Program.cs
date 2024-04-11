@@ -26,19 +26,19 @@ namespace VocabTrainer
             {
                 for(int j = 0; j < words.Length - i - 1; j++)
                 {
-                    if(words[j].Fails > words[j + 1].Fails)
+                    if(words[j].Fails < words[j + 1].Fails)
                     {
-                        Swap(words[j], words[j + 1]);
+                        Swap(ref words[j], ref words[j + 1]);
                     }
                 }
             }
         }
 
-        private static void Swap(Word word1, Word word2)
+        private static void Swap(ref Word word1, ref Word word2)
         {
             Word helper = word1;
             word1 = word2;
-            word1 = helper;
+            word2 = helper;
         }
 
         private static void WriteToCsvFile(Word[] words, string csv)
