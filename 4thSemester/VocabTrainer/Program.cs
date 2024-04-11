@@ -72,11 +72,14 @@ namespace VocabTrainer
             do
             {
             int randomWord = random.Next(0, words.Length - 1);
-            input = string.Empty;
             Console.WriteLine("Beenden mit Eingabetaste");
             Console.Write($"{words[randomWord].GermanWord}: ");
             input = Console.ReadLine();
-            if(input == words[randomWord].EnglishWord)
+            if(string.IsNullOrEmpty(input))
+            {
+                exitLoop = true;
+            }
+            else if(input == words[randomWord].EnglishWord)
             {
                 Console.WriteLine("Richtig!");
                 words[randomWord].Hits += 1;
@@ -85,10 +88,6 @@ namespace VocabTrainer
             {
                 Console.WriteLine("Leider falsch!");
                 words[randomWord].Fails += 1;
-            }
-            else if(string.IsNullOrEmpty(input))
-            {
-                exitLoop = true;
             }
 
             }while (exitLoop == false);

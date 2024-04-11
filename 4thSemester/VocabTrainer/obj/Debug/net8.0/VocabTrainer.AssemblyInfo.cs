@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VocabTrainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97e4c9c8e69abdb37806f92ddec85d7fa54d3a35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eb86474ae4e6499d0b03ba88769808b307c49ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("VocabTrainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VocabTrainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
