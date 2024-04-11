@@ -67,6 +67,7 @@ namespace VocabTrainer
         private static void TestVocabulary(ref Word[] words)
         {
             string input;
+            bool exitLoop = false;
             Random random = new Random();
             do
             {
@@ -85,8 +86,12 @@ namespace VocabTrainer
                 Console.WriteLine("Leider falsch!");
                 words[randomWord].Fails += 1;
             }
+            else if(string.IsNullOrEmpty(input))
+            {
+                exitLoop = true;
+            }
 
-            }while (input == string.Empty);
+            }while (exitLoop == false);
         }
 
         private static Word[] ReadFromCsvFile(string csv)
