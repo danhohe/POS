@@ -19,12 +19,79 @@ namespace VocabTrainer
         {
             PrintHeader();
             Word[] words = ReadFromCsvFile("vocabulary.csv");
-            TestVocabulary(words);
+            TestVocabulary(ref words);
+            SortVocabulary(ref words);
+            PrintVocabulary(ref words);
+            WriteToCsvFile(words, "VocabTestResults.csv");
         }
 
-        private static void TestVocabulary(Word[] words)
+        private static void SortVocabulary(ref Word[] words)
         {
-            throw new NotImplementedException();
+            for(int i = 0; i < words.Length; i++)
+            {
+                for(int j = 0; j < words.Length - i - 1; j++)
+                {
+                    if(words[j].Fails > words[j + 1].Fails)
+                    {
+                        Swap(words[j], words[j + 1]);
+                    }
+                }
+            }
+        }
+
+        private static void Swap(Word word1, Word word2)
+        {
+            Word helper = word1;
+            word1 = word2;
+            word1 = helper;
+        }
+
+        private static void WriteToCsvFile(Word[] words, string csv)
+        {
+            string[] text = new string[words.Length];
+            for(int i = 0; i < words.Length; i++)
+            {
+                text[i] = words[i].GermanWord + ";" + words[i].EnglishWord + ";" + words[i].Fails + ";" + words[i].Hits;
+            }
+
+            File.WriteAllLines(csv, text);
+        }
+
+        private static void PrintVocabulary(ref Word[] words)
+        {
+            Console.WriteLine("Ergebnis des Vokabeltests");
+            Console.WriteLine("=========================");
+            Console.WriteLine($"{"deutsch"}{"englisch"}{"falsch"}{"richtig"}");
+            Console.WriteLine($"{"-------"}{"--------"}{"------"}{"-------"}");
+            for(int i = 0; i < words.Length; i++)
+            {
+                Console.WriteLine($"{words[i].GermanWord}{words[i].EnglishWord}{words[i].Fails}{words[i].Hits}");
+            }
+        }
+
+        private static void TestVocabulary(ref Word[] words)
+        {
+            string input;
+            Random random = new Random();
+            do
+            {
+            int randomWord = random.Next(0, words.Length - 1);
+            input = string.Empty;
+            Console.WriteLine("Beenden mit Eingabetaste");
+            Console.Write($"{words[randomWord].GermanWord}: ");
+            input = Console.ReadLine();
+            if(input == words[randomWord].EnglishWord)
+            {
+                Console.WriteLine("Richtig!");
+                words[randomWord].Hits += 1;
+            }
+            else if (input != words[randomWord].EnglishWord)
+            {
+                Console.WriteLine("Leider falsch!");
+                words[randomWord].Fails += 1;
+            }
+
+            }while (input == string.Empty);
         }
 
         private static Word[] ReadFromCsvFile(string csv)
