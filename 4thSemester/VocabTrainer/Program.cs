@@ -1,9 +1,4 @@
 ﻿#nullable disable
-
-
-
-
-
 namespace VocabTrainer
 {
     class Program
@@ -112,6 +107,8 @@ namespace VocabTrainer
             Word result = new Word();
             result.GermanWord = data[0];
             result.EnglishWord = data[1];
+            result.Fails = 0;
+            result.Hits = 0;
             return result;
         }
 
