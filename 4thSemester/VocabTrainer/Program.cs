@@ -56,11 +56,11 @@ namespace VocabTrainer
         {
             Console.WriteLine("Ergebnis des Vokabeltests");
             Console.WriteLine("=========================");
-            Console.WriteLine($"{"deutsch"}{"englisch"}{"falsch"}{"richtig"}");
-            Console.WriteLine($"{"-------"}{"--------"}{"------"}{"-------"}");
+            Console.WriteLine($"{"deutsch", -15} {"englisch", -15} {"falsch", -15} {"richtig"}");
+            Console.WriteLine($"{"-------", -15} {"--------", -15} {"------", -15} {"-------"}");
             for(int i = 0; i < words.Length; i++)
             {
-                Console.WriteLine($"{words[i].GermanWord}{words[i].EnglishWord}{words[i].Fails}{words[i].Hits}");
+                Console.WriteLine($"{words[i].GermanWord, -15} {words[i].EnglishWord, -15} {words[i].Fails, -15} {words[i].Hits}");
             }
         }
 
