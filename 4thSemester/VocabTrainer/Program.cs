@@ -69,10 +69,11 @@ namespace VocabTrainer
             string input;
             bool exitLoop = false;
             Random random = new Random();
+            Console.WriteLine("Beenden mit Eingabetaste");
             do
             {
             int randomWord = random.Next(0, words.Length - 1);
-            Console.WriteLine("Beenden mit Eingabetaste");
+            Console.WriteLine();
             Console.Write($"{words[randomWord].GermanWord}: ");
             input = Console.ReadLine();
             if(string.IsNullOrEmpty(input))
