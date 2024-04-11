@@ -97,7 +97,7 @@ namespace VocabTrainer
         private static Word[] ReadFromCsvFile(string csv)
         {
             string[] lines = File.ReadAllLines(csv);
-            Word[] result = new Word[lines.Length];
+            Word[] result = new Word[lines.Length - 1];
 
             for(int i = 1; i < lines.Length; i++)
             {
