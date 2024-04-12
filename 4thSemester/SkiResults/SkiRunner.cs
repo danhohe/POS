@@ -46,9 +46,15 @@ public class SkiRunner
     #endregion properties
 
     #region methods
-    public double GetFullTime(double time1, double time2)
+    public static double GetFullTime(double time1, double time2)
     {
         double result = time1 + time2;
+        return result;
+    }
+    public static double CalculateDgTime(string time)
+    {
+        double result = 0;
+
         return result;
     }
     #endregion methods
