@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/bin/Debug/net8.0/SkiResults
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/bin/Debug/net8.0/SkiResults.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/bin/Debug/net8.0/SkiResults.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/bin/Debug/net8.0/SkiResults.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/bin/Debug/net8.0/SkiResults.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/SkiResults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/SkiResults.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/SkiResults.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/SkiResults.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/SkiResults.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/SkiResults.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/refint/SkiResults.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/SkiResults.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/SkiResults.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/SkiResults/obj/Debug/net8.0/ref/SkiResults.dll

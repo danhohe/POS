@@ -6,8 +6,8 @@ public class SkiRunner
     #region fields
     private string _name;
     private string _nation;
-    private double _timeDG1;
-    private double _timeDG2;
+    private double _timeDg1;
+    private double _timeDg2;
     private double _fullTime;
     private int _rank;
     #endregion fields
@@ -23,15 +23,15 @@ public class SkiRunner
         get { return _nation; }
         set { _nation = value; }
     }
-    public double TimeDG1
+    public double TimeDg1
     {
-        get { return _timeDG1; }
-        set { _timeDG1 = value; }
+        get { return _timeDg1; }
+        set { _timeDg1 = value; }
     }
-    public double TimeDG2
+    public double TimeDg2
     {
-        get { return _timeDG2; }
-        set { _timeDG2 = value; }
+        get { return _timeDg2; }
+        set { _timeDg2 = value; }
     }
     public double FullTime
     {
@@ -54,8 +54,36 @@ public class SkiRunner
     public static double CalculateDgTime(string time)
     {
         double result = 0;
+        if (CheckTimestampFormat(time))
+        {
+            string[] timeParts = time.Split(':');
+            result += Convert.ToDouble(timeParts[0]) * 60.0;
+            time = timeParts[1];
+        }
+        string[] timeParts2 = time.Split('.');
+        result += Convert.ToDouble(timeParts2[0]);
+        result += Convert.ToDouble(timeParts2[1]) * 0.01;
+        return result;
+    }
+    public static int CheckWhichRankReached(double fullTime)
+    {
+        int result = 0;
 
         return result;
     }
+   public static bool CheckTimestampFormat(string timestamp)
+{
+    // Check if the timestamp contains exactly one colon and one dot
+    int colonIndex = timestamp.IndexOf(':');
+    int dotIndex = timestamp.IndexOf('.');
+    bool result = true;
+    if (colonIndex == -1 || dotIndex == -1 || timestamp.LastIndexOf(':') != colonIndex || timestamp.LastIndexOf('.') != dotIndex)
+    {
+        result = false;
+    }
+
+    return result;
+}
+
     #endregion methods
 }

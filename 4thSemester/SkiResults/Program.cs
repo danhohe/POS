@@ -4,6 +4,7 @@
 
 
 
+
 namespace SkiResults
 {
     class Program
@@ -23,12 +24,71 @@ namespace SkiResults
             PrintMenu();
             SkiRunner[] skiRunners = ReadFromCsvFile(run1);
             SkiRunner[] skiRunners2 = ReadFromCsvFile(run2);
-            CreateResultTable(ref skiRunners);
+            SkiRunner[] runnersResult = CreateResultTable(skiRunners, skiRunners2);
+            GetMenuChoice();
         }
 
-        private static void CreateResultTable(ref SkiRunner[] skiRunners)
+        private static void GetMenuChoice()
+        {
+            string input = string.Empty;
+            int n;
+            input = Console.ReadLine();
+            Int32.TryParse(input, out n);
+            switch (n)
+            {
+                case 1:
+                    PrintResult();
+                    break;
+                case 2:
+                    PrintDisqualifiedRunners();
+                    break;
+                case 3:
+                    DeleteDisqualifiedRunners();
+                    break;
+                case 4:
+                    SaveRunnersToCsv();
+                    break;
+                case 0:
+                    break;
+                default:
+                    Console.WriteLine("Wrong input!");
+                    Console.WriteLine("only the numbers shown in the menu are valid");
+                    GetMenuChoice();
+                    break;
+            }
+        }
+
+        private static void SaveRunnersToCsv()
         {
             throw new NotImplementedException();
+        }
+
+        private static void DeleteDisqualifiedRunners()
+        {
+            throw new NotImplementedException();
+        }
+
+        private static void PrintDisqualifiedRunners()
+        {
+            throw new NotImplementedException();
+        }
+
+        private static void PrintResult()
+        {
+            throw new NotImplementedException();
+        }
+
+        private static SkiRunner[] CreateResultTable(SkiRunner[] skiRunners, SkiRunner[] skiRunners2)
+        {
+            SkiRunner[] result = new SkiRunner[skiRunners.Length + 2];
+            for (int i = 0; i < skiRunners.Length; i++)
+            {
+                if (skiRunners[i].Name == skiRunners2[i].Name)
+                {
+                    result[i] = skiRunners[i];
+                }
+            }
+            return result;
         }
 
         private static SkiRunner[] ReadFromCsvFile(string csv)
@@ -36,9 +96,9 @@ namespace SkiResults
             string[] lines = File.ReadAllLines(csv);
             SkiRunner[] result = new SkiRunner[lines.Length];
 
-            for(int i = 0; i < lines.Length; i++)
+            for (int i = 1; i < lines.Length; i++)
             {
-                result[i] = CreateNewRunner(lines[i]);
+                result[i - 1] = CreateNewRunner(lines[i]);
             }
             return result;
         }
@@ -49,7 +109,14 @@ namespace SkiResults
             SkiRunner result = new SkiRunner();
             result.Nation = data[0];
             result.Name = data[1];
-            result.TimeDG1 = SkiRunner.CalculateDgTime(data[2]);
+            if (data[3] == "1")
+            {
+                result.TimeDg1 = SkiRunner.CalculateDgTime(data[2]);
+            }
+            else if (data[3] == "2")
+            {
+                result.TimeDg2 = SkiRunner.CalculateDgTime(data[2]);
+            }
             return result;
         }
 
