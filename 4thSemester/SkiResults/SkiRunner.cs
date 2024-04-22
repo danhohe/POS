@@ -65,15 +65,8 @@ public class SkiRunner
         result += Convert.ToDouble(timeParts2[1]) * 0.01;
         return result;
     }
-    public static int CheckWhichRankReached(double fullTime)
-    {
-        int result = 0;
-
-        return result;
-    }
    public static bool CheckTimestampFormat(string timestamp)
 {
-    // Check if the timestamp contains exactly one colon and one dot
     int colonIndex = timestamp.IndexOf(':');
     int dotIndex = timestamp.IndexOf('.');
     bool result = true;
@@ -81,9 +74,7 @@ public class SkiRunner
     {
         result = false;
     }
-
     return result;
 }
-
     #endregion methods
 }
