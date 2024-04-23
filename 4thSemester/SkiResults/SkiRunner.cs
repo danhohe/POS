@@ -54,7 +54,7 @@ public class SkiRunner
     public static double CalculateDgTime(string time)
     {
         double result = 0;
-        if (CheckTimestampFormat(time))
+        if(time.Contains(':'))
         {
             string[] timeParts = time.Split(':');
             result += Convert.ToDouble(timeParts[0]) * 60.0;
@@ -65,16 +65,5 @@ public class SkiRunner
         result += Convert.ToDouble(timeParts2[1]) * 0.01;
         return result;
     }
-   public static bool CheckTimestampFormat(string timestamp)
-{
-    int colonIndex = timestamp.IndexOf(':');
-    int dotIndex = timestamp.IndexOf('.');
-    bool result = true;
-    if (colonIndex == -1 || dotIndex == -1 || timestamp.LastIndexOf(':') != colonIndex || timestamp.LastIndexOf('.') != dotIndex)
-    {
-        result = false;
-    }
-    return result;
-}
     #endregion methods
 }

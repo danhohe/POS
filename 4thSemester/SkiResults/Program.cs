@@ -41,12 +41,12 @@ namespace SkiResults
                 switch (n)
                 {
                     case 1:
-                        PrintResult(runnersResult);
+                        runnersModified = PrintResult(runnersResult);
                         Console.WriteLine("press any key to continue...");
                         Console.ReadKey();
                         break;
                     case 2:
-                        PrintDisqualifiedRunners(runnersResult);
+                        runnersModified = PrintDisqualifiedRunners(runnersResult);
                         Console.WriteLine("press any key to continue...");
                         Console.ReadKey();
                         break;
@@ -103,8 +103,9 @@ namespace SkiResults
             }
             return result;
         }
-        private static void PrintDisqualifiedRunners(SkiRunner[] runners)
+        private static SkiRunner[] PrintDisqualifiedRunners(SkiRunner[] runners)
         {
+            SkiRunner[] result = runners;
             for (int i = 0; i < runners.Length; i++)
             {
                 if (runners[i].Rank == 999)
@@ -112,13 +113,16 @@ namespace SkiResults
                     Console.WriteLine($"{runners[i].Rank} {runners[i].Name} {runners[i].Nation} {runners[i].TimeDg1:f2} {runners[i].TimeDg2:f2} {runners[i].FullTime:f2}");
                 }
             }
+            return result;
         }
-        private static void PrintResult(SkiRunner[] runnersResult)
+        private static SkiRunner[] PrintResult(SkiRunner[] runnersResult)
         {
+            SkiRunner[] result = runnersResult;
             for (int i = 0; i < runnersResult.Length; i++)
             {
                 Console.WriteLine($"{runnersResult[i].Rank} {runnersResult[i].Name} {runnersResult[i].Nation} {runnersResult[i].TimeDg1:f2} {runnersResult[i].TimeDg2:f2} {runnersResult[i].FullTime:f2}");
             }
+            return result;
         }
         private static SkiRunner[] CreateResultTable(SkiRunner[] skiRunners, SkiRunner[] skiRunners2)
         {
