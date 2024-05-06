@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CalendarManagement")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DemoRekursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b4ec1da7d0a2571491574f89bf925ef5c9d1496")]
-[assembly: System.Reflection.AssemblyProductAttribute("CalendarManagement")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CalendarManagement")]
+[assembly: System.Reflection.AssemblyProductAttribute("DemoRekursion")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DemoRekursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

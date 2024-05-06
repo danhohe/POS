@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/bin/Debug/net8.0/RecursiveExamples
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/bin/Debug/net8.0/RecursiveExamples.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/bin/Debug/net8.0/RecursiveExamples.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/bin/Debug/net8.0/RecursiveExamples.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/bin/Debug/net8.0/RecursiveExamples.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/RecursiveExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/RecursiveExamples.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/RecursiveExamples.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/RecursiveExamples.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/RecursiveExamples.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/RecursiveExamples.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/refint/RecursiveExamples.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/RecursiveExamples.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/RecursiveExamples.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/RecursiveExamples/obj/Debug/net8.0/ref/RecursiveExamples.dll

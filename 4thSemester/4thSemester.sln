@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRun", "BusinessRun\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarManagement", "CalendarManagement\CalendarManagement.csproj", "{EAF3315F-F7C9-4A2A-AB1A-EFD2F2A324FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoRekursion", "DemoRekursion\DemoRekursion.csproj", "{A27926AA-5E1A-4425-BE58-266E033C8F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveExamples", "RecursiveExamples\RecursiveExamples.csproj", "{A8162637-3B7D-4832-BF6C-C3BA605ED938}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{EAF3315F-F7C9-4A2A-AB1A-EFD2F2A324FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAF3315F-F7C9-4A2A-AB1A-EFD2F2A324FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAF3315F-F7C9-4A2A-AB1A-EFD2F2A324FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27926AA-5E1A-4425-BE58-266E033C8F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27926AA-5E1A-4425-BE58-266E033C8F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27926AA-5E1A-4425-BE58-266E033C8F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27926AA-5E1A-4425-BE58-266E033C8F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8162637-3B7D-4832-BF6C-C3BA605ED938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8162637-3B7D-4832-BF6C-C3BA605ED938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8162637-3B7D-4832-BF6C-C3BA605ED938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8162637-3B7D-4832-BF6C-C3BA605ED938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

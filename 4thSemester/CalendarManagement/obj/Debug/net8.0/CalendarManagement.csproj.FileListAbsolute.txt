@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/bin/Debug/net8.0/CalendarManagement
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/bin/Debug/net8.0/CalendarManagement.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/bin/Debug/net8.0/CalendarManagement.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/bin/Debug/net8.0/CalendarManagement.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/bin/Debug/net8.0/CalendarManagement.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/CalendarManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/CalendarManagement.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/CalendarManagement.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/CalendarManagement.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/CalendarManagement.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/CalendarManagement.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/refint/CalendarManagement.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/CalendarManagement.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/CalendarManagement.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/CalendarManagement/obj/Debug/net8.0/ref/CalendarManagement.dll

@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/bin/Debug/net8.0/DemoRekursion
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/bin/Debug/net8.0/DemoRekursion.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/bin/Debug/net8.0/DemoRekursion.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/bin/Debug/net8.0/DemoRekursion.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/bin/Debug/net8.0/DemoRekursion.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/DemoRekursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/DemoRekursion.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/DemoRekursion.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/DemoRekursion.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/DemoRekursion.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/DemoRekursion.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/refint/DemoRekursion.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/DemoRekursion.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/DemoRekursion.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoRekursion/obj/Debug/net8.0/ref/DemoRekursion.dll
