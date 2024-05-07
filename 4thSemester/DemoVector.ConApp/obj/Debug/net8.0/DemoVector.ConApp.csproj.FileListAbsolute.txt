@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/bin/Debug/net8.0/DemoVector.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/bin/Debug/net8.0/DemoVector.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/bin/Debug/net8.0/DemoVector.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/bin/Debug/net8.0/DemoVector.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/bin/Debug/net8.0/DemoVector.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/DemoVector.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/DemoVector.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/DemoVector.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/DemoVector.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/DemoVector.ConApp.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/DemoVector.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/refint/DemoVector.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/DemoVector.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/DemoVector.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoVector.ConApp/obj/Debug/net8.0/ref/DemoVector.ConApp.dll
