@@ -40,8 +40,19 @@ public class Vector
     }
     #endregion overrides
 
+    #region operator overloadings
+    public static Vector operator + (Vector a, Vector b)
+    {
+        return Vector.Add(a, b);
+    }
+    public static Vector operator + (Vector a, int b)
+    {
+        return new Vector(a.X + b, a.Y + b);
+    }
+    #endregion operator overloadings
+
     #region methods
-    public void Add(Vector vector)
+    public void AddToMe(Vector vector)
     {
         this.X += vector._x;
         this.Y += vector._y;
@@ -49,6 +60,12 @@ public class Vector
     public static Vector Add(Vector a, Vector b)
     {
         return new Vector(a.X + b.X , a.Y + b.Y);
+    }
+    public void Invert()
+    {
+        int tmp = this.X;
+        this.X = this.Y;
+        this.Y = tmp;
     }
     #endregion methods
 }
