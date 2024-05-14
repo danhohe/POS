@@ -1,22 +1,43 @@
 ﻿namespace DemoStack.ConApp;
 
-public class Stack
+public class Stack<T>
 {
-    
+    #region embedded class
+    private class Element
+    {
+        public Element(T data, Element? next)
+        {
+            Data = data;
+            Next = next;
+        }
+        public T Data { get; set; }
+        public Element? Next { get; set; }
+    }
+    #endregion embedded class
+
+    #region fields
+    private Element? _head = null;
+    #endregion fields
+
     #region properties
     public bool IsEmpty
     {
-        get{throw new NotImplementedException();}
+        get { return _head == null; }
     }
     #endregion properties
     #region methods
-    public void Push(string data)
+    public void Push(T data)
     {
-        throw new NotImplementedException();
+        _head = new Element(data, _head);
     }
-    public string Pop()
+    public T Pop()
     {
-        throw new NotImplementedException();
+        if (IsEmpty)
+            throw new InvalidOperationException("Stack is empty.");
+
+        Element tmp = _head!;
+        _head = _head!.Next;
+        return tmp.Data;
     }
     #endregion methods
 }
