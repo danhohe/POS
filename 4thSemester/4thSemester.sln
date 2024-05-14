@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveExamples", "Recurs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoVector.ConApp", "DemoVector.ConApp\DemoVector.ConApp.csproj", "{6780687F-45CD-44B0-932A-DC734053A468}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionOne.ConApp", "FractionOne.ConApp\FractionOne.ConApp.csproj", "{4AED2C93-A032-4EFF-8427-AEA3480A590F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{6780687F-45CD-44B0-932A-DC734053A468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6780687F-45CD-44B0-932A-DC734053A468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6780687F-45CD-44B0-932A-DC734053A468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AED2C93-A032-4EFF-8427-AEA3480A590F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AED2C93-A032-4EFF-8427-AEA3480A590F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AED2C93-A032-4EFF-8427-AEA3480A590F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AED2C93-A032-4EFF-8427-AEA3480A590F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

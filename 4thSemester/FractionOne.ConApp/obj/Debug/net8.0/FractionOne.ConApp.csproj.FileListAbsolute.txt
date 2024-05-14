@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/bin/Debug/net8.0/FractionOne.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/bin/Debug/net8.0/FractionOne.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/bin/Debug/net8.0/FractionOne.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/bin/Debug/net8.0/FractionOne.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/bin/Debug/net8.0/FractionOne.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/FractionOne.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/FractionOne.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/FractionOne.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/FractionOne.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/FractionOne.ConApp.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/FractionOne.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/refint/FractionOne.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/FractionOne.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/FractionOne.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/FractionOne.ConApp/obj/Debug/net8.0/ref/FractionOne.ConApp.dll
