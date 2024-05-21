@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionOne.ConApp", "Fract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoStack.ConApp", "DemoStack.ConApp\DemoStack.ConApp.csproj", "{A8F8FE38-0C66-41F2-9B2D-5CB58897D8F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSortFraction.ConApp", "DemoSortFraction.ConApp\DemoSortFraction.ConApp.csproj", "{059AEB94-A77F-4337-8581-6E13BBD4328F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{A8F8FE38-0C66-41F2-9B2D-5CB58897D8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8F8FE38-0C66-41F2-9B2D-5CB58897D8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8F8FE38-0C66-41F2-9B2D-5CB58897D8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059AEB94-A77F-4337-8581-6E13BBD4328F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059AEB94-A77F-4337-8581-6E13BBD4328F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059AEB94-A77F-4337-8581-6E13BBD4328F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059AEB94-A77F-4337-8581-6E13BBD4328F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

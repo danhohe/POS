@@ -1,5 +1,5 @@
 ﻿using System.Drawing;
-
+using WindowsForms;
 namespace Program {
     class Program {
         private static void Main() {
