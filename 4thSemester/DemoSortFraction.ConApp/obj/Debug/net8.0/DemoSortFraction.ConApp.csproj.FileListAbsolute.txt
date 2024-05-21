@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/bin/Debug/net8.0/DemoSortFraction.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/bin/Debug/net8.0/DemoSortFraction.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/bin/Debug/net8.0/DemoSortFraction.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/bin/Debug/net8.0/DemoSortFraction.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/bin/Debug/net8.0/DemoSortFraction.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/DemoSortFraction.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/DemoSortFraction.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/DemoSortFraction.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/DemoSortFraction.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/DemoSortFraction.ConApp.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/DemoSortFraction.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/refint/DemoSortFraction.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/DemoSortFraction.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/DemoSortFraction.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/DemoSortFraction.ConApp/obj/Debug/net8.0/ref/DemoSortFraction.ConApp.dll
