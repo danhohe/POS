@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoVector.ConApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b51d119832eaa5dd09dcc5b1a0d2b8fd0a491b0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoVector.ConApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoVector.ConApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

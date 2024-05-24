@@ -14,7 +14,6 @@
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/obj/Debug/net8.0/UpnCalculator.ConApp.genruntimeconfig.cache
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/obj/Debug/net8.0/ref/UpnCalculator.ConApp.dll
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/obj/Debug/net8.0/UpnCalculator.ConApp.csproj.AssemblyReference.cache
-/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/obj/Debug/net8.0/UpnCalculator.ConApp.csproj.CopyComplete
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/bin/Debug/net8.0/Humanizer.dll
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
@@ -83,3 +82,4 @@
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/bin/Debug/net8.0/PlantUML.Logic.dll
 /Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/bin/Debug/net8.0/PlantUML.Logic.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/4thSemester/UpnCalculator.ConApp/obj/Debug/net8.0/UpnCalcu.FED5BE03.Up2Date
