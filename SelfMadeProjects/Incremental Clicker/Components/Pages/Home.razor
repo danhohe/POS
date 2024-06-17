@@ -1,0 +1,68 @@
+﻿@page "/"
+
+<h3>Crystal Clicker</h3>
+
+<div class="container">
+    <div id="click-area">
+        <img src="images/crystals-155644_1280.png" alt="Crystal" id="click-object" @onclick="IncrementScore">
+    </div>
+    <div class="stats">
+        <p>Raumkristalle: <span>@score</span></p>
+    </div>
+    <div class="upgrades">
+        <button @onclick="BuyAutoClicker" disabled="@(!CanBuyAutoClicker)">Kaufe Auto-Klicker (Kosten: @autoClickerCost Kristalle)</button>
+    </div>
+</div>
+
+@code {
+    private int score = 0;
+    private int autoClickers = 0;
+    private int autoClickerCost = 10;
+    private bool autoClickerRunning = false;
+
+    private void IncrementScore()
+    {
+        Console.WriteLine("IncrementScore aufgerufen");
+        score++;
+        StateHasChanged(); // Stellt sicher, dass das UI nach einer Änderung aktualisiert wird
+    }
+
+    private void BuyAutoClicker()
+    {
+        if (score >= autoClickerCost)
+        {
+            score -= autoClickerCost;
+            autoClickers++;
+            autoClickerCost *= 2; // Verdoppelt die Kosten für jeden weiteren Kauf
+
+            if (!autoClickerRunning)
+            {
+                autoClickerRunning = true;
+                _ = StartAutoClicker();
+            }
+
+            StateHasChanged(); // UI aktualisieren
+        }
+    }
+
+    private async Task StartAutoClicker()
+    {
+        while (autoClickers > 0)
+        {
+            await Task.Delay(1000); // 1 Sekunde warten
+            score += autoClickers;
+            Console.WriteLine("AutoClicker hat die Punktzahl erhöht");
+            InvokeAsync(StateHasChanged); // UI aktualisieren
+        }
+        autoClickerRunning = false; // Reset AutoClickerRunning wenn keine AutoClicker mehr vorhanden sind
+    }
+
+    private bool CanBuyAutoClicker
+    {
+        get
+        {
+            Console.WriteLine($"CanBuyAutoClicker aufgerufen, score: {score}, autoClickerCost: {autoClickerCost}");
+            return score >= autoClickerCost;
+        }
+    }
+}

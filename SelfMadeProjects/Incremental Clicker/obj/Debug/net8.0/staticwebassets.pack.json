@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/Incremental Clicker/wwwroot/Images/crystals-155644_1280.png",
+      "PackagePath": "staticwebassets/Images/crystals-155644_1280.png"
+    },
+    {
+      "Id": "/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/Incremental Clicker/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/Incremental Clicker/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/Incremental Clicker/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/Incremental Clicker/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Incremental_Clicker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Incremental_Clicker.props",
+      "PackagePath": "build\\Incremental_Clicker.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Incremental_Clicker.props",
+      "PackagePath": "buildMultiTargeting\\Incremental_Clicker.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Incremental_Clicker.props",
+      "PackagePath": "buildTransitive\\Incremental_Clicker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

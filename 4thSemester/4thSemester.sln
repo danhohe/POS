@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSortFraction.ConApp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpnCalculator.ConApp", "UpnCalculator.ConApp\UpnCalculator.ConApp.csproj", "{5D81D993-D879-4850-A275-3A7D1F8E2391}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPupilList.ConApp", "DemoPupilList.ConApp\DemoPupilList.ConApp.csproj", "{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{5D81D993-D879-4850-A275-3A7D1F8E2391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D81D993-D879-4850-A275-3A7D1F8E2391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D81D993-D879-4850-A275-3A7D1F8E2391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
