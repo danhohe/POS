@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Incremental_Clicker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42ee5a1a117c16b778e60ebcedcd605f6fd78dd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f91eec751a3e37ae3fa0d69d8806637d9fc786")]
 [assembly: System.Reflection.AssemblyProductAttribute("Incremental_Clicker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Incremental_Clicker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
