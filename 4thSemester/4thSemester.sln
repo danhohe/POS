@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpnCalculator.ConApp", "Upn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPupilList.ConApp", "DemoPupilList.ConApp\DemoPupilList.ConApp.csproj", "{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandOfPearl", "BandOfPearl\BandOfPearl.csproj", "{01DC4ECF-1123-4238-AE09-43CAA169CFFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EF5340D-5033-4095-8EE1-EBCBF0658B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01DC4ECF-1123-4238-AE09-43CAA169CFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01DC4ECF-1123-4238-AE09-43CAA169CFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01DC4ECF-1123-4238-AE09-43CAA169CFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01DC4ECF-1123-4238-AE09-43CAA169CFFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
