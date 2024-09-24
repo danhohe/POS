@@ -1,0 +1,5 @@
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyList/obj/Debug/net8.0/MyList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyList/obj/Debug/net8.0/MyList.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyList/obj/Debug/net8.0/MyList.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyList/obj/Debug/net8.0/MyList.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyList/obj/Debug/net8.0/MyList.sourcelink.json

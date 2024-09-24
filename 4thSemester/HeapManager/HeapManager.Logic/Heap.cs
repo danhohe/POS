@@ -5,7 +5,10 @@
     /// </summary>
     public class Heap
     {
-        
+        public Heap()
+        {
+            
+        }
     }
 }
 
