@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/bin/Debug/net8.0/DemoConstructor
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/bin/Debug/net8.0/DemoConstructor.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/bin/Debug/net8.0/DemoConstructor.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/bin/Debug/net8.0/DemoConstructor.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/bin/Debug/net8.0/DemoConstructor.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/DemoConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/DemoConstructor.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/DemoConstructor.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/DemoConstructor.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/DemoConstructor.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/DemoConstructor.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/refint/DemoConstructor.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/DemoConstructor.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/DemoConstructor.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoConstructor/obj/Debug/net8.0/ref/DemoConstructor.dll

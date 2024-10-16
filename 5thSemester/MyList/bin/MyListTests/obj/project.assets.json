@@ -1002,11 +1002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyListTests/MyListTests.csproj",
+      "projectUniqueName": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyList/bin/MyListTests/MyListTests.csproj",
       "projectName": "MyListTests",
-      "projectPath": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyListTests/MyListTests.csproj",
+      "projectPath": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyList/bin/MyListTests/MyListTests.csproj",
       "packagesPath": "/Users/danielhoheneder/.nuget/packages/",
-      "outputPath": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyListTests/obj/",
+      "outputPath": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/MyList/bin/MyListTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danielhoheneder/.nuget/NuGet/NuGet.Config"

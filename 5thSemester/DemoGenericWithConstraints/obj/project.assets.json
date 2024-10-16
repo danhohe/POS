@@ -1,0 +1,72 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/Users/danielhoheneder/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoGenericWithConstraints/DemoGenericWithConstraints.csproj",
+      "projectName": "DemoGenericWithConstraints",
+      "projectPath": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoGenericWithConstraints/DemoGenericWithConstraints.csproj",
+      "packagesPath": "/Users/danielhoheneder/.nuget/packages/",
+      "outputPath": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoGenericWithConstraints/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/danielhoheneder/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
