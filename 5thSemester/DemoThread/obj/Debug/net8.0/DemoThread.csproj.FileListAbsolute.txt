@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/bin/Debug/net8.0/DemoThread
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/bin/Debug/net8.0/DemoThread.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/bin/Debug/net8.0/DemoThread.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/bin/Debug/net8.0/DemoThread.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/bin/Debug/net8.0/DemoThread.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/DemoThread.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/DemoThread.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/DemoThread.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/DemoThread.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/DemoThread.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/DemoThread.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/refint/DemoThread.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/DemoThread.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/DemoThread.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoThread/obj/Debug/net8.0/ref/DemoThread.dll

@@ -1,0 +1,15 @@
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/bin/Debug/net8.0/DemoExceptions.ConApp
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/bin/Debug/net8.0/DemoExceptions.ConApp.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/bin/Debug/net8.0/DemoExceptions.ConApp.runtimeconfig.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/bin/Debug/net8.0/DemoExceptions.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/bin/Debug/net8.0/DemoExceptions.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/DemoExceptions.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/DemoExceptions.ConApp.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/DemoExceptions.ConApp.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/DemoExceptions.ConApp.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/DemoExceptions.ConApp.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/DemoExceptions.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/refint/DemoExceptions.ConApp.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/DemoExceptions.ConApp.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/DemoExceptions.ConApp.genruntimeconfig.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/DemoExceptions.ConApp/obj/Debug/net8.0/ref/DemoExceptions.ConApp.dll
