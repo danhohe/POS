@@ -13,6 +13,7 @@ public sealed class WorldClock : Observable
     static WorldClock()
     {
         _instance = new WorldClock();
+        Start();
     }
     private WorldClock()
     { }
@@ -28,7 +29,7 @@ public sealed class WorldClock : Observable
 
     private static void Start()
     {
-        Thread thread = new Thread(Run())
+        Thread thread = new Thread(Run);
 
         thread.IsBackground = true;
         thread.Start();
@@ -39,7 +40,7 @@ public sealed class WorldClock : Observable
         while(true)
         {
             Thread.Sleep(1000);
-            _instance.NotifyAll(EventArgs.Empty);
+            _instance.NotifyAll(new DateTimeArgs());
         }
     }
 

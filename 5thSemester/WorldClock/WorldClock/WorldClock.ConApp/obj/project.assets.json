@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "WorldClock.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WorldClock.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorldClock.Logic.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WorldClock.Logic/1.0.0": {
+      "type": "project",
+      "path": "../WorldClock.Logic/WorldClock.Logic.csproj",
+      "msbuildProject": "../WorldClock.Logic/WorldClock.Logic.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "WorldClock.Logic >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/danielhoheneder/.nuget/packages/": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/WorldClock.Logic.csproj": {
+              "projectPath": "/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/WorldClock.Logic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

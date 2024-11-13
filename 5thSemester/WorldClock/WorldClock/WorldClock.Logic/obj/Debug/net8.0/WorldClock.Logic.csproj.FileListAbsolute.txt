@@ -1,0 +1,12 @@
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/bin/Debug/net8.0/WorldClock.Logic.deps.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/bin/Debug/net8.0/WorldClock.Logic.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/bin/Debug/net8.0/WorldClock.Logic.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/WorldClock.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/WorldClock.Logic.AssemblyInfoInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/WorldClock.Logic.AssemblyInfo.cs
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/WorldClock.Logic.csproj.CoreCompileInputs.cache
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/WorldClock.Logic.sourcelink.json
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/WorldClock.Logic.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/refint/WorldClock.Logic.dll
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/WorldClock.Logic.pdb
+/Users/danielhoheneder/Desktop/Schule/POS/5thSemester/WorldClock/WorldClock/WorldClock.Logic/obj/Debug/net8.0/ref/WorldClock.Logic.dll
