@@ -29,7 +29,7 @@ public abstract class Observable
         {
             foreach (var observer in _observers)
             {
-                observer.Update(this, EventArgs.Empty);
+                Task.Run(()=>observer.Update(this, e));
             }
         }
     }

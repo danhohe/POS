@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorldClock.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79583feb501f84c43c4835d67b6f5e48b5bb4bb6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2851c4873c7049c0d2635353dfc5c73652da3462")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorldClock.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorldClock.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

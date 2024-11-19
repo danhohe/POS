@@ -14,7 +14,8 @@ namespace WorldClock.ConApp
             Logic.WorldClock.Instance.AddObserver(c1);
             Logic.WorldClock.Instance.AddObserver(c2);
             Logic.WorldClock.Instance.AddObserver(c3);
-
+            Logic.WorldClock.Instance.AddObserver(new BadObserver());
+            
             Console.ReadLine();
 
             Logic.WorldClock.Instance.RemoveObserver(c1);
