@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35201.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceSimulation.ConApp", "DiceSimulation.ConApp\DiceSimulation.ConApp.csproj", "{719FE113-F2FE-41F3-B544-1F6AACFC6C52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceSimulation.Logic", "DiceSimulation.Logic\DiceSimulation.Logic.csproj", "{8134F568-08ED-4DC9-9041-EF397F3AD39E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1E930EF-386E-4318-ABE3-1B3D38A79E30}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719FE113-F2FE-41F3-B544-1F6AACFC6C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719FE113-F2FE-41F3-B544-1F6AACFC6C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719FE113-F2FE-41F3-B544-1F6AACFC6C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719FE113-F2FE-41F3-B544-1F6AACFC6C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8134F568-08ED-4DC9-9041-EF397F3AD39E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8134F568-08ED-4DC9-9041-EF397F3AD39E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8134F568-08ED-4DC9-9041-EF397F3AD39E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8134F568-08ED-4DC9-9041-EF397F3AD39E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1897A546-87B5-4F2C-BB03-35F78FA6C2D9}
+	EndGlobalSection
+EndGlobal
