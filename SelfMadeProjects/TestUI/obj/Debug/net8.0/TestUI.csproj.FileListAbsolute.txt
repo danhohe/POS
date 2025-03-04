@@ -1,5 +1,0 @@
-/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/TestUI/obj/Debug/net8.0/TestUI.GeneratedMSBuildEditorConfig.editorconfig
-/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/TestUI/obj/Debug/net8.0/TestUI.AssemblyInfoInputs.cache
-/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/TestUI/obj/Debug/net8.0/TestUI.AssemblyInfo.cs
-/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/TestUI/obj/Debug/net8.0/TestUI.csproj.CoreCompileInputs.cache
-/Users/danielhoheneder/Desktop/Schule/POS/SelfMadeProjects/TestUI/obj/Debug/net8.0/TestUI.sourcelink.json
