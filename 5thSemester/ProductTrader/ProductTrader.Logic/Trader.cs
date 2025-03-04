@@ -1,4 +1,6 @@
-﻿namespace ProductTrader.Logic
+﻿using System.Net.Mail;
+
+namespace ProductTrader.Logic
 {
     public class Trader : ITrader
     {
@@ -24,13 +26,42 @@
         #endregion properties
         public Trader(string name, double purchaseValue, double retailValue)
         {
-            throw new NotImplementedException();
+            Name = name;
+            PurchaseValue = purchaseValue;
+            RetailValue = retailValue;
+            
         }
 
         #region methods
-        public void UpdateProduct(object sender, EventArgs eventArgs)
+        public void UpdateProduct(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            if (e is ProductEventArgs product)
+            {
+                if (_hasBought && product.Value >= RetailValue)
+                {
+                    PastProfit += product.Value - _buyValue;
+                    _hasBought = false;
+                    _buyValue = 0.0;
+                    CurrentProfit = PastProfit;
+                }
+                else if (!_hasBought && product.Value >= PurchaseValue)
+                {
+                    _hasBought = true;
+                    _buyValue = product.Value;
+                    CurrentProfit = PastProfit;
+                }
+                else
+                {
+                    CurrentProfit = PastProfit;
+                    CurrentProfit += _hasBought ? _buyValue - product.Value : 0;
+                }
+
+                if (CurrentProfit > 0)
+                {
+                    ;
+                }
+                Console.WriteLine($"{this}");
+            }
         }
         public override string ToString()
         {

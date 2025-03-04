@@ -5,6 +5,8 @@
         private const int UpdateTime = 500;
         #region fields
         private DateTime _startTime;
+        private volatile bool _running;
+        private static readonly Random Random = new (DateTime.UtcNow.Millisecond);
         #endregion fields
 
         #region properties
@@ -21,18 +23,67 @@
         #region constructors
         public Product(string name, double startValue)
         {
-            throw new NotImplementedException();
+            Name = name;
+            Value = MinValue = MaxValue = startValue;
         }
         #endregion constructors
 
         #region methods
         public void Start()
         {
-            throw new NotImplementedException();
+            if (!_running)
+            {
+                _running = true;
+                Thread t = new(Run)
+                {
+                    IsBackground = true
+                };
+                _startTime = DateTime.Now;
+                t.Start();
+            }
         }
         public void Stop()
         {
-            throw new NotImplementedException();
+            _running = false;
+        }
+
+        private void Run()
+        {
+            double fluctuation;
+
+            while (_running)
+            {
+                Thread.Sleep(UpdateTime);
+
+                fluctuation = CalculateFluctuation(Random.Next(1, 51) / 1000.0);
+                Value += fluctuation;
+                if (Value < MinValue)
+                {
+                    MinValue = Value;
+                }
+                else if (Value > MaxValue)
+                {
+                    MaxValue = Value;
+                }
+                Changed?.Invoke(this, new ProductEventArgs(Name, MinValue, MaxValue, Value));
+            }
+        }
+
+        private double CalculateFluctuation(double fluctuation)
+        {
+            double result;
+            int upOrDown = Random.Next(1, 101);
+
+            if (upOrDown >= 50)
+            {
+                result = Value * fluctuation;
+            }
+            else
+            {
+                fluctuation *= -1;
+                result = Value * fluctuation;
+            }
+            return result;
         }
 
         public override string ToString()
